@@ -23,13 +23,18 @@
 
 ### 2023-12-11  ————OpticSunHz
 
-+ 1 Pytorch学习笔记： https://tangshusen.me/Dive-into-DL-PyTorch/#/  
++ 1 Pytorch学习笔记： [《动手学深度学习》](https://tangshusen.me/Dive-into-DL-PyTorch/#/)  
 
-+ 2 个人主页建设： https://zhuanlan.zhihu.com/p/648447844  
++ 2 个人主页建设： [个人主页建设](https://zhuanlan.zhihu.com/p/648447844)  
 
-+ 3 电影网站： https://www.bdys10.com/?ref=toolsdar.com
++ 3 电影网站： [哔嘀影视](https://www.bdys10.com/?ref=toolsdar.com)
 
-+ ### 2023-12-11  ————WUWUmoon
++ 4 Transformer学习：
+  + [自注意力机制讲解，如何得到Q/K/V](https://www.zhihu.com/tardis/zm/art/414084879?source_id=1005)
+  + [Transformer的结构](https://zhuanlan.zhihu.com/p/338817680)
+  + [李沐Transformer论文讲解](https://www.bilibili.com/video/BV1pu411o7BE/?spm_id_from=333.999.0.0)
+
+### 2023-12-11  ————WUWUmoon
 
 + 1 免费动漫网站： https://omofun.link/
 
