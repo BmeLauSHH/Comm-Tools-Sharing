@@ -1,6 +1,6 @@
 # Comm-Tools-Sharing
 
-记录一些好用的装机工具  ————by Laurent
+记录一些好用的装机&学习&娱乐工具  ————by Laurent & OpticSunHz
 
 #  置顶：markdown语法学习：  https://markdown.com.cn/basic-syntax/
 
@@ -18,3 +18,11 @@
   + 无界鼠标可以再局域网环境下在最多四台设备内快速转移鼠标，延迟受网络环境影响较为明显
 
 + 6 翻译软件：POT https://pot-app.com/ 有UMP版，集成OPENAI（需要apikey）
+
+### 2023-12-11  ————OpticSunHz
+
++ 1 Pytorch学习笔记： https://tangshusen.me/Dive-into-DL-PyTorch/#/  
+
++ 2 个人主页建设： https://zhuanlan.zhihu.com/p/648447844  
+
++ 3 电影网站： https://www.bdys10.com/?ref=toolsdar.com  
