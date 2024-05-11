@@ -21,8 +21,9 @@
 
 + 6 翻译软件:  [POT](https://pot-app.com/) 有UMP版，集成OPENAI（需要apikey）
   
-+ 7 IDM破解： [一个小站](https://www.ygxz.in/idea/1650/)
++ 7 IDM破解:  [一个小站](https://www.ygxz.in/idea/1650/)
 
++ 8 阅读翻译插件:  [沉浸式翻译](https://immersivetranslate.com/?force=1) 可以双语对照网页翻译，可用open AI，可翻译pdf，目前免费
 ### 2023-12-11  ————OpticSunHz
 
 + 1 Pytorch学习笔记： [《动手学深度学习》](https://tangshusen.me/Dive-into-DL-PyTorch/#/)  
