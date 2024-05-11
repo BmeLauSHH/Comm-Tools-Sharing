@@ -20,6 +20,8 @@
   + 无界鼠标可以再局域网环境下在最多四台设备内快速转移鼠标，延迟受网络环境影响较为明显
 
 + 6 翻译软件:  [POT](https://pot-app.com/) 有UMP版，集成OPENAI（需要apikey）
+  
++ 7 IDM破解： [一个小站](https://www.ygxz.in/idea/1650/)
 
 ### 2023-12-11  ————OpticSunHz
 
